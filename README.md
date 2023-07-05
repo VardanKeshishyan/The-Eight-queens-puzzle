@@ -18,10 +18,13 @@ Uses the backtracking algorithm to explore different configurations.
 Detects and avoids conflicts between queens in terms of rows, columns, and diagonals.
 Outputs the chessboard representation of each solution.
 Provides the total count of solutions found.
-Installation
+
+
+**Installation**
+
 Clone the repository:
 Navigate to the project directory:
-Compile the program using a C++ compiler: g++ main.cpp Board.cpp Queen.cpp -o EightQueensPuzzleSolver
+Compile the program using a C++ compiler: g++ main.cpp Board.cpp Queen.cpp -o EightQueensPuzzle
 
 **Usage**
 
