@@ -3,3 +3,5 @@ The eight queens puzzle is the problem of placing eight chess queens on an 8×8 
 
 
 ![image](https://github.com/VardanKeshishyan/The-Eight-queens-puzzle/assets/138354187/8ac0066b-a873-406e-8351-db4c9577793d)
+
+![image](https://github.com/VardanKeshishyan/The-Eight-queens-puzzle/assets/138354187/2850a616-3984-4e57-a285-3eda7655fe16)
