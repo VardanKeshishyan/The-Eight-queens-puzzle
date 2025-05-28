@@ -11,21 +11,6 @@ The program systematically explores different configurations of queen placements
 
 The program outputs all possible solutions for the Eight Queens Puzzle. Each solution is represented as a chessboard with the queens' positions indicated. The program also provides the total count of solutions found.
 
-**Features**
-
-Solves the Eight Queens Puzzle by finding all possible solutions.
-Uses the backtracking algorithm to explore different configurations.
-Detects and avoids conflicts between queens in terms of rows, columns, and diagonals.
-Outputs the chessboard representation of each solution.
-Provides the total count of solutions found.
-
-
-**Installation**
-
-Clone the repository:
-Navigate to the project directory:
-Compile the program using a C++ compiler: g++ main.cpp Board.cpp Queen.cpp -o EightQueensPuzzle
-
 **Usage**
 
 Run the program, and it will automatically find and display all possible solutions for the Eight Queens Puzzle.
