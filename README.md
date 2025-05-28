@@ -1,6 +1,8 @@
 # The-Eight-queens-puzzle
 The eight queens puzzle is the problem of placing eight chess queens on an 8×8 chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. There are 92 solutions. The problem was first posed in the mid-19th century.
 
+![image](https://github.com/user-attachments/assets/c9e8a4da-6194-4abd-9e26-344b239a9c84)
+
 A C++ program that solves the classic Eight Queens Puzzle, which involves placing eight chess queens on an 8×8 chessboard such that no two queens threaten each other. The puzzle requires that no two queens share the same row, column, or diagonal. The problem was first posed in the mid-19th century, and there are 92 possible solutions.
 
 **Description**
